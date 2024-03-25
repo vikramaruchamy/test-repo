@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ## Table of Contents
  1. [Subheading 1](#subheading-1)
  2. [Subheading 2](#subheading-2)
